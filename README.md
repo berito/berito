@@ -4,7 +4,8 @@
 
 **Perception and SLAM Engineer** · ROS 2 · C++ · Python
 
-MSc in Artificial Intelligence · University lecturer in Electrical and Computer Engineering since 2019<br>
+![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence-1F4E79) ![Lecturer](https://img.shields.io/badge/Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202019-1F4E79)
+
 I measure results rather than assume them.
 
 [![YouTube](https://img.shields.io/badge/YouTube-LearnBotics-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LearnBotics) [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e)
@@ -21,7 +22,7 @@ I measure results rather than assume them.
 <img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/PX4-0B3D91"> <img src="https://img.shields.io/badge/MAVROS-555555"> <img src="https://img.shields.io/badge/Gazebo-F58113">
 <p>A drone flies laps of a running track on its own; route, speed and height come from a config file.</p>
 <p><b>Result:</b> laps 2 and 3 hold the same line within <b>6 cm</b> (PX4 flight log).</p>
-<p><a href="https://www.youtube.com/watch?v=wvMxqPTPmhs">Watch the demo</a></p>
+<p><a href="https://www.youtube.com/watch?v=wvMxqPTPmhs"><img src="https://img.shields.io/badge/Watch-demo-FF0000?logo=youtube&logoColor=white" alt="Watch the demo"></a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.youtube.com/watch?v=wurXI_GgwnE"><img src="https://img.youtube.com/vi/wurXI_GgwnE/maxresdefault.jpg" width="100%" alt="Mengabot"></a>
@@ -29,37 +30,16 @@ I measure results rather than assume them.
 <img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo%20Harmonic-F58113">
 <p>A modular multi-robot simulation platform: robot models, worlds and fleets chosen in one command.</p>
 <p><b>Result:</b> up to <b>8 robots</b> at once, each with 3D LiDAR, IMU, GPS and cameras.</p>
-<p><a href="https://www.youtube.com/watch?v=wurXI_GgwnE">Watch the demo</a></p>
+<p><a href="https://www.youtube.com/watch?v=wurXI_GgwnE"><img src="https://img.shields.io/badge/Watch-demo-FF0000?logo=youtube&logoColor=white" alt="Watch the demo"></a></p>
 </td>
 </tr>
 </table>
 
 ### Freelance work
 
-<p>Paid work for clients on <a href="https://www.upwork.com/freelancers/~01f6916f502dc2f83e">Upwork</a> (Top Rated, 100% Job Success). Client code stays private.</p>
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%2C%20100%25%20Job%20Success-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e)
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h4>3D LiDAR SLAM</h4>
-<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Point--LIO-1F4E79"> <img src="https://img.shields.io/badge/GTSAM-1F4E79"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<p>LiDAR-inertial SLAM for a Unitree L2 sensor: Point-LIO odometry with a GTSAM pose-graph back-end, the sensor's UDP driver and IMU set up.</p>
-<p><b>Result:</b> a loop-closed, <b>globally consistent 3D map</b>, handed over in Docker.</p>
-</td>
-<td width="33%" valign="top">
-<h4>Nav2 tuning</h4>
-<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Nav2-22314E"> <img src="https://img.shields.io/badge/robot__localization-1F4E79"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<p>Navigation for an Ackermann robot: planners, costmaps and dynamic obstacle avoidance tuned with a structured method; a deadlock in <code>robot_localization</code> patched from source.</p>
-<p><b>Result:</b> <b>30 / 30</b> runs on the walls map, <b>26 / 30</b> with obstacles.</p>
-</td>
-<td width="33%" valign="top">
-<h4>Multi-robot UGV simulation</h4>
-<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo%20Harmonic-F58113"> <img src="https://img.shields.io/badge/Nav2-22314E"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<p>Team project; my part: the robot model from CAD, the sensors and worlds, EKF + GNSS localization with Nav2, and the WiFi / LTE / LoRa communication package.</p>
-<p><b>Result:</b> up to <b>8 robots</b> at once, a <b>27-frame</b> TF tree, link failover with measured latency.</p>
-</td>
-</tr>
-</table>
+Paid work for clients; the projects are listed on my Upwork profile. Client code stays private.
 
 ### Latest videos
 
