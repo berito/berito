@@ -67,12 +67,12 @@ Paid work for clients; the projects are listed on my Upwork profile. Client code
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Stack
+### Skills
 
-| Area | Tools |
+| Area | Skills |
 |---|---|
 | **Computer Vision / Perception** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-8E44AD?style=flat-square&logo=opencv&logoColor=white) ![Object detection](https://img.shields.io/badge/Object%20detection-8E44AD?style=flat-square) ![Segmentation](https://img.shields.io/badge/Segmentation-8E44AD?style=flat-square) ![Tracking](https://img.shields.io/badge/Tracking-8E44AD?style=flat-square) |
-| **SLAM and State Estimation** | ![LiDAR SLAM](https://img.shields.io/badge/LiDAR%20SLAM-1F4E79?style=flat-square) ![Visual SLAM](https://img.shields.io/badge/Visual%20SLAM-1F4E79?style=flat-square) ![Sensor fusion](https://img.shields.io/badge/Sensor%20fusion-1F4E79?style=flat-square) ![Pose-graph optimization](https://img.shields.io/badge/Pose--graph%20optimization-1F4E79?style=flat-square) ![Kalman and particle filters](https://img.shields.io/badge/Kalman%20and%20particle%20filters-1F4E79?style=flat-square) ![PCL](https://img.shields.io/badge/PCL-1F4E79?style=flat-square) |
+| **SLAM and State Estimation** | ![LiDAR SLAM](https://img.shields.io/badge/LiDAR%20SLAM-1F4E79?style=flat-square) ![Visual SLAM](https://img.shields.io/badge/Visual%20SLAM-1F4E79?style=flat-square) ![Sensor fusion](https://img.shields.io/badge/Sensor%20fusion-1F4E79?style=flat-square) ![Pose-graph optimization](https://img.shields.io/badge/Pose--graph%20optimization-1F4E79?style=flat-square) ![Kalman and particle filters](https://img.shields.io/badge/Kalman%20and%20particle%20filters-1F4E79?style=flat-square) |
 | **Robotics** | ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-C0392B?style=flat-square) ![PX4](https://img.shields.io/badge/PX4-C0392B?style=flat-square) ![MAVROS](https://img.shields.io/badge/MAVROS-C0392B?style=flat-square) ![ArduPilot](https://img.shields.io/badge/ArduPilot-C0392B?style=flat-square) |
 | **Robot Learning** | ![Reinforcement learning](https://img.shields.io/badge/Reinforcement%20learning-C0392B?style=flat-square) ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-4E7A00?style=flat-square&logo=nvidia&logoColor=white) ![MuJoCo Playground](https://img.shields.io/badge/MuJoCo%20Playground-C0392B?style=flat-square) |
 | **Simulation** | ![Gazebo](https://img.shields.io/badge/Gazebo-C25400?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-C25400?style=flat-square) ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-4E7A00?style=flat-square&logo=nvidia&logoColor=white) |
