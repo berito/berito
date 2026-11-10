@@ -2,31 +2,29 @@
 
 ## Hi, I'm Mohammed
 
-**Robotics Engineer** · Computer Vision · SLAM · Robot Learning
+**Robotics Engineer** | Computer Vision | SLAM | Robot Learning
 
-![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence-24292E) ![Lecturer](https://img.shields.io/badge/Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202019-24292E)
-
-I measure results rather than assume them.
+![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence-24292E) ![Lecturer](https://img.shields.io/badge/Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202019-24292E) ![Experience](https://img.shields.io/badge/Experience-4%2B%20years%20in%20robotics-24292E)
 
 [![YouTube](https://img.shields.io/badge/YouTube-LearnBotics-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LearnBotics) [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-108A00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e)
 
 </div>
 
-### What I work on
+### Focus areas
 
 <table>
 <tr>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/Computer%20Vision%20%2F%20Perception-8E44AD?style=for-the-badge" alt="Computer Vision / Perception"></p>
-<p>Helping robots see and understand the world around them, with modern deep learning taken from training all the way to running on the robot.</p>
+<p>Robot perception with modern deep learning, from model training to real-time inference on the robot.</p>
 </td>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/SLAM%20and%20State%20Estimation-1F4E79?style=for-the-badge" alt="SLAM and State Estimation"></p>
-<p>Giving robots a reliable sense of where they are and what surrounds them, from any combination of sensors, checked against ground truth.</p>
+<p>Accurate localization and mapping from any combination of sensors, evaluated against ground truth.</p>
 </td>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/Robotics%20and%20Robot%20Learning-C0392B?style=for-the-badge" alt="Robotics and Robot Learning"></p>
-<p>Building robots that act on their own, on the ground and in the air, and teaching them new skills through simulation and learning.</p>
+<p>Autonomous ground and aerial robots, with control policies trained in simulation.</p>
 </td>
 </tr>
 </table>
@@ -38,19 +36,19 @@ I measure results rather than assume them.
 <td width="50%" valign="top">
 <a href="https://www.youtube.com/watch?v=wvMxqPTPmhs"><img src="https://img.youtube.com/vi/wvMxqPTPmhs/maxresdefault.jpg" width="100%" alt="PX4 track pacing"></a>
 <h4>PX4 track pacing</h4>
-<img src="https://img.shields.io/badge/Robotics-C0392B" alt="Robotics">
-<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/PX4-C0392B"> <img src="https://img.shields.io/badge/MAVROS-C0392B"> <img src="https://img.shields.io/badge/Gazebo-C25400">
-<p>A drone flies laps of a running track on its own; route, speed and height come from a config file.</p>
-<p><b>Result:</b> laps 2 and 3 hold the same line within <b>6 cm</b> (PX4 flight log).</p>
+<img src="https://img.shields.io/badge/Robotics-C0392B" alt="Robotics"> <img src="https://img.shields.io/badge/Simulation-C25400" alt="Simulation">
+<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white" alt="ROS 2"> <img src="https://img.shields.io/badge/PX4-C0392B" alt="PX4"> <img src="https://img.shields.io/badge/MAVROS-C0392B" alt="MAVROS"> <img src="https://img.shields.io/badge/Gazebo%20Harmonic-C25400" alt="Gazebo Harmonic">
+<p>A drone flies autonomous laps of a running track, with trajectory, speed and altitude set in a config file.</p>
+<p><b>Result:</b> laps 2 and 3 follow the same path within <b>6 cm</b> (PX4 flight log).</p>
 <p><a href="https://www.youtube.com/watch?v=wvMxqPTPmhs"><img src="https://img.shields.io/badge/Watch-demo-FF0000?logo=youtube&logoColor=white" alt="Watch the demo"></a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.youtube.com/watch?v=wurXI_GgwnE"><img src="https://img.youtube.com/vi/wurXI_GgwnE/maxresdefault.jpg" width="100%" alt="Mengabot"></a>
 <h4>Mengabot</h4>
 <img src="https://img.shields.io/badge/Robotics-C0392B" alt="Robotics"> <img src="https://img.shields.io/badge/Simulation-C25400" alt="Simulation">
-<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/Gazebo%20Harmonic-C25400">
-<p>A modular multi-robot simulation platform: robot models, worlds and fleets chosen in one command.</p>
-<p><b>Result:</b> up to <b>8 robots</b> at once, each with 3D LiDAR, IMU, GPS and cameras.</p>
+<img src="https://img.shields.io/badge/ROS%202-22314E?logo=ros&logoColor=white" alt="ROS 2"> <img src="https://img.shields.io/badge/Gazebo%20Harmonic-C25400" alt="Gazebo Harmonic">
+<p>A modular multi-robot simulation platform: robot models, worlds and fleets configured from a single ROS 2 launch command.</p>
+<p><b>Scale:</b> up to <b>8 robots</b> at once, each with 3D LiDAR, IMU, GPS and cameras.</p>
 <p><a href="https://www.youtube.com/watch?v=wurXI_GgwnE"><img src="https://img.shields.io/badge/Watch-demo-FF0000?logo=youtube&logoColor=white" alt="Watch the demo"></a></p>
 </td>
 </tr>
@@ -60,7 +58,7 @@ I measure results rather than assume them.
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%2C%20100%25%20Job%20Success-108A00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e)
 
-Paid work for clients; the projects are listed on my Upwork profile. Client code stays private.
+Client projects are listed on my Upwork profile. Client code stays private.
 
 ### Latest videos
 
