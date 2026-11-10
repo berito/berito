@@ -65,6 +65,9 @@ Paid work for clients; the projects are listed on my Upwork profile. Client code
 ### Latest videos
 
 <!-- BLOG-POST-LIST:START -->
+- [PX4 Drone Flying Laps of a Running Track | ROS 2, MAVROS, Gazebo](https://www.youtube.com/watch?v=wvMxqPTPmhs)
+- [Modular Multi-Robot Simulation in ROS 2 and Gazebo | Mengabot](https://www.youtube.com/watch?v=wurXI_GgwnE)
+- [Travel Ethiopia Project robot demo from Addis to Gode](https://www.youtube.com/watch?v=bt5eOaq8ymI)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills
