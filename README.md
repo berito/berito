@@ -63,9 +63,9 @@ Client projects are listed on my Upwork profile. Client code stays private.
 ### Latest videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Drone pacer on a full 400 m running track | PX4 + ROS 2 + Gazebo simulation](https://www.youtube.com/watch?v=E67rEvnuRvw)
+- [Autonomous drone pacer for track running | PX4 + ROS 2 + Gazebo simulation](https://www.youtube.com/watch?v=-q1ZSZvsdK0)
 - [PX4 Drone Flying Laps of a Running Track | ROS 2, MAVROS, Gazebo](https://www.youtube.com/watch?v=wvMxqPTPmhs)
-- [Modular Multi-Robot Simulation in ROS 2 and Gazebo | Mengabot](https://www.youtube.com/watch?v=wurXI_GgwnE)
-- [Travel Ethiopia Project robot demo from Addis to Gode](https://www.youtube.com/watch?v=bt5eOaq8ymI)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills
