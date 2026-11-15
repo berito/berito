@@ -4,7 +4,7 @@
 
 **Robotics Engineer** | SLAM, Navigation, Computer Vision | ROS 2, C++, Python
 
-![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence%2C%20in%20progress-24292E) ![Lecturer](https://img.shields.io/badge/Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202021-24292E) ![Experience](https://img.shields.io/badge/Experience-4%2B%20years%20in%20robotics-24292E)
+![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence%2C%20in%20progress-24292E) ![Assistant Lecturer](https://img.shields.io/badge/Assistant%20Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202021-24292E) ![Experience](https://img.shields.io/badge/Experience-4%2B%20years%20in%20robotics-24292E)
 
 [![YouTube](https://img.shields.io/badge/YouTube-LearnBotics-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LearnBotics) [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-108A00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohsraj-0A66C2)](https://www.linkedin.com/in/mohsraj)
 
