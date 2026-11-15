@@ -2,11 +2,11 @@
 
 ## Hi, I'm Mohammed
 
-**Robotics Engineer** | Computer Vision | SLAM | Robot Learning
+**Robotics Engineer** | SLAM, Navigation, Computer Vision | ROS 2, C++, Python
 
-![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence-24292E) ![Lecturer](https://img.shields.io/badge/Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202019-24292E) ![Experience](https://img.shields.io/badge/Experience-4%2B%20years%20in%20robotics-24292E)
+![MSc](https://img.shields.io/badge/MSc-Artificial%20Intelligence%2C%20in%20progress-24292E) ![Lecturer](https://img.shields.io/badge/Lecturer-Electrical%20%26%20Computer%20Engineering%2C%20since%202021-24292E) ![Experience](https://img.shields.io/badge/Experience-4%2B%20years%20in%20robotics-24292E)
 
-[![YouTube](https://img.shields.io/badge/YouTube-LearnBotics-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LearnBotics) [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-108A00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e)
+[![YouTube](https://img.shields.io/badge/YouTube-LearnBotics-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LearnBotics) [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-108A00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohsraj-0A66C2)](https://www.linkedin.com/in/mohsraj)
 
 </div>
 
@@ -16,15 +16,15 @@
 <tr>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/Computer%20Vision%20%2F%20Perception-8E44AD?style=for-the-badge" alt="Computer Vision / Perception"></p>
-<p>Robot perception with modern deep learning, from model training to real-time inference on the robot.</p>
+<p>Detection, tracking and target estimation for robots, in C++ and ROS 2.</p>
 </td>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/SLAM%20and%20State%20Estimation-1F4E79?style=for-the-badge" alt="SLAM and State Estimation"></p>
-<p>Accurate localization and mapping from any combination of sensors, evaluated against ground truth.</p>
+<p>LiDAR-inertial SLAM, pose-graph optimization and sensor fusion, evaluated against ground truth.</p>
 </td>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/Robotics%20and%20Robot%20Learning-C0392B?style=for-the-badge" alt="Robotics and Robot Learning"></p>
-<p>Autonomous ground and aerial robots, with control policies trained in simulation.</p>
+<p>Autonomous ground robots and drones in ROS 2 and simulation; robot learning is the next step.</p>
 </td>
 </tr>
 </table>
@@ -72,9 +72,8 @@ Client projects are listed on my Upwork profile. Client code stays private.
 
 | Area | Skills |
 |---|---|
-| **Computer Vision / Perception** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-8E44AD?style=flat-square&logo=opencv&logoColor=white) ![Object detection](https://img.shields.io/badge/Object%20detection-8E44AD?style=flat-square) ![Segmentation](https://img.shields.io/badge/Segmentation-8E44AD?style=flat-square) ![Tracking](https://img.shields.io/badge/Tracking-8E44AD?style=flat-square) |
-| **SLAM and State Estimation** | ![LiDAR SLAM](https://img.shields.io/badge/LiDAR%20SLAM-1F4E79?style=flat-square) ![Visual SLAM](https://img.shields.io/badge/Visual%20SLAM-1F4E79?style=flat-square) ![Sensor fusion](https://img.shields.io/badge/Sensor%20fusion-1F4E79?style=flat-square) ![Pose-graph optimization](https://img.shields.io/badge/Pose--graph%20optimization-1F4E79?style=flat-square) ![Kalman and particle filters](https://img.shields.io/badge/Kalman%20and%20particle%20filters-1F4E79?style=flat-square) |
+| **Computer Vision / Perception** | ![Object detection](https://img.shields.io/badge/Object%20detection-8E44AD?style=flat-square) ![Multi-object tracking](https://img.shields.io/badge/Multi--object%20tracking-8E44AD?style=flat-square) ![Kalman filter](https://img.shields.io/badge/Kalman%20filter-8E44AD?style=flat-square) ![YOLOv8](https://img.shields.io/badge/YOLOv8-8E44AD?style=flat-square) ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-8E44AD?style=flat-square) |
+| **SLAM and State Estimation** | ![LiDAR SLAM](https://img.shields.io/badge/LiDAR%20SLAM-1F4E79?style=flat-square) ![Sensor fusion](https://img.shields.io/badge/Sensor%20fusion-1F4E79?style=flat-square) ![Pose-graph optimization](https://img.shields.io/badge/Pose--graph%20optimization-1F4E79?style=flat-square) ![Kalman and particle filters](https://img.shields.io/badge/Kalman%20and%20particle%20filters-1F4E79?style=flat-square) |
 | **Robotics** | ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-C0392B?style=flat-square) ![PX4](https://img.shields.io/badge/PX4-C0392B?style=flat-square) ![MAVROS](https://img.shields.io/badge/MAVROS-C0392B?style=flat-square) ![ArduPilot](https://img.shields.io/badge/ArduPilot-C0392B?style=flat-square) |
-| **Robot Learning** | ![Reinforcement learning](https://img.shields.io/badge/Reinforcement%20learning-C0392B?style=flat-square) ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-4E7A00?style=flat-square&logo=nvidia&logoColor=white) ![MuJoCo Playground](https://img.shields.io/badge/MuJoCo%20Playground-C0392B?style=flat-square) |
-| **Simulation** | ![Gazebo](https://img.shields.io/badge/Gazebo-C25400?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-C25400?style=flat-square) ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-4E7A00?style=flat-square&logo=nvidia&logoColor=white) |
+| **Simulation** | ![Gazebo](https://img.shields.io/badge/Gazebo-C25400?style=flat-square) |
 | **Systems** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
