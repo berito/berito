@@ -16,15 +16,15 @@
 <tr>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/Computer%20Vision%20%2F%20Perception-8E44AD?style=for-the-badge" alt="Computer Vision / Perception"></p>
-<p>Detection, tracking and target estimation for robots, in C++ and ROS 2.</p>
+<p>Object detection and tracking, segmentation, multi-sensor fusion and real-time inference.</p>
 </td>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/SLAM%20and%20State%20Estimation-1F4E79?style=for-the-badge" alt="SLAM and State Estimation"></p>
-<p>LiDAR-inertial SLAM, pose-graph optimization and sensor fusion, evaluated against ground truth.</p>
+<p>LiDAR and visual-inertial SLAM, pose-graph optimization, sensor fusion and calibration.</p>
 </td>
 <td width="33%" valign="top">
 <p align="center"><img src="https://img.shields.io/badge/Robotics%20and%20Robot%20Learning-C0392B?style=for-the-badge" alt="Robotics and Robot Learning"></p>
-<p>Autonomous ground robots and drones in ROS 2 and simulation; robot learning is the next step.</p>
+<p>Navigation, motion planning and control for mobile robots, and robot learning.</p>
 </td>
 </tr>
 </table>
@@ -58,7 +58,7 @@
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%2C%20100%25%20Job%20Success-108A00?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6916f502dc2f83e)
 
-Client projects are listed on my Upwork profile. Client code stays private.
+I take freelance projects and work remotely with clients and teams anywhere. Client projects are listed on my Upwork profile; client code stays private.
 
 ### Latest videos
 
